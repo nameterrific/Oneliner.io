@@ -1,2 +1,2 @@
-require './forwarder'
+require './oneliner'
 run Sinatra::Application
